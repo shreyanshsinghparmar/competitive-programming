@@ -7,10 +7,10 @@ using namespace std;
 
 int32_t main() {
 	// O(n) time
-    fastio;
+	fastio;
 
-    int n;
-    cin >> n;
+	int n;
+	cin >> n;
 	int s = (n * (n + 1)) / 2, x;
 	for(int i = 0; i < n - 1; ++i) {
 		cin >> x;
@@ -18,5 +18,5 @@ int32_t main() {
 	}
 	cout << s << "\n";
 
-    return 0;
+	return 0;
 }

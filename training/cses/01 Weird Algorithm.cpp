@@ -6,11 +6,11 @@
 using namespace std;
 
 int32_t main() {
-    fastio;
+	fastio;
 
-    int n;
-    cin >> n;
-    while(n != 1) {
+	int n;
+	cin >> n;
+	while(n != 1) {
 		cout << n << " ";
 		if(n % 2 != 0) {
 			n = n * 3 + 1;
@@ -21,5 +21,5 @@ int32_t main() {
 	cout << 1;
 	cout << "\n";
 
-    return 0;
+	return 0;
 }

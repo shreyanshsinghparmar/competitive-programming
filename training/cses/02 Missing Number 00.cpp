@@ -7,12 +7,12 @@ using namespace std;
 
 int32_t main() {
 	// O(n log n) time
-    fastio;
+	fastio;
 
-    int n;
-    cin >> n;
-    vector<int> v(n - 1);
-    for(int i = 0; i < n - 1; ++i) {
+	int n;
+	cin >> n;
+	vector<int> v(n - 1);
+	for(int i = 0; i < n - 1; ++i) {
 		cin >> v[i];
 	}
 	int x = 0, i = 0;
@@ -24,5 +24,5 @@ int32_t main() {
 		}
 	}
 
-    return 0;
+	return 0;
 }

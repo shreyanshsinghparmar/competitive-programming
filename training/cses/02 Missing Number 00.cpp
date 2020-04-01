@@ -1,14 +1,14 @@
 #include <bits/stdc++.h>
- 
+
 #define int long long
 #define fastio ios::sync_with_stdio(0); cin.tie(0); cout.tie(0)
- 
+
 using namespace std;
- 
+
 int32_t main() {
 	// O(n log n) time
     fastio;
- 
+
     int n;
     cin >> n;
     vector<int> v(n - 1);
@@ -23,6 +23,6 @@ int32_t main() {
 			break;
 		}
 	}
- 
+
     return 0;
 }

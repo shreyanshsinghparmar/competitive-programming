@@ -3,7 +3,7 @@ My training and competitions in programming contests
 
 ## cses
 CSES Problem set meant to teach standard problems from each topic
-[CSES Problem Set](http://cfladders.rf.gd/ "CSES Problem Set")
+[CSES Problem Set](https://cses.fi/problemset/ "CSES Problem Set")
 
 ## How to view submissions?
 Every directory contains the problems related to that contest or training session

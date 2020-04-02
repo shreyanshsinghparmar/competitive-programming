@@ -1,7 +1,7 @@
 # competitive-programming
 My training and competitions in programming contests
 
-## cses
+## CSES
 CSES Problem set meant to teach standard problems from each topic
 [CSES Problem Set](https://cses.fi/problemset/ "CSES Problem Set")
 

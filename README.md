@@ -10,6 +10,6 @@ Every directory contains the problems related to that contest or training sessio
 
 The files with .cpp extension are the source codes and those without any extensions are the problem statements
 
-Every submission has a number as prefix that represent sequence in which they were solved
+Every submission has a number as prefix that represents sequence in which they were solved
 
-Every submission has a number as suffix that represent the different approcaches to the problem
+Every submission has a number as suffix that represents the different approcaches to the problem

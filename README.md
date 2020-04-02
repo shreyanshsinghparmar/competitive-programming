@@ -1,11 +1,9 @@
 # competitive-programming
 My training and competitions in programming contests
 
-## training
-Problems solved to learn and improve skills from the ground up
-
-## competitions
-Problems solved in official rounds, and while upsolving (solving problems that couldn't be done in contests later)
+## cses
+CSES Problem set meant to teach standard problems from each topic
+[CSES Problem Set](http://cfladders.rf.gd/ "CSES Problem Set")
 
 ## How to view submissions?
 Every directory contains the problems related to that contest or training session

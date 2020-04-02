@@ -6,7 +6,7 @@
 using namespace std;
 
 int32_t main() {
-	// O(n) time
+	// O(n) time, O(1) space
 	fastio;
 
 	int n;

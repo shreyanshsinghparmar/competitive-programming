@@ -6,7 +6,7 @@
 using namespace std;
 
 int32_t main() {
-	// O(n log n) time
+	// O(n log n) time, O(n) space
 	fastio;
 
 	int n;

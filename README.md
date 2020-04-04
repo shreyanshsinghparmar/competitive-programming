@@ -5,9 +5,13 @@ My training and competitions in programming contests
 CSES Problem set meant to teach standard problems from each topic
 [CSES Problem Set](https://cses.fi/problemset/ "CSES Problem Set")
 
-## Code_Gladiators 2020
-Problems I solved from TechGig Code Gladiators 2020
+## Code_Gladiators_2020
+Submissions from TechGig Code Gladiators 2020
 [Code Gladiators](https://www.techgig.com/codegladiators "Code Gladiators")
+
+## Code_Jam_2020
+Submissions from Google Code Jam 2020
+[Code Jam 2020]("Code Jam 2020")
 
 ## How to view submissions?
 Every directory contains the problems related to that contest or training session

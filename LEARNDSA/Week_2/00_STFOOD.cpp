@@ -15,7 +15,7 @@ int32_t main() {
 		int n, s, p, v;
 		cin >> n;
 		int maxx = INT_MIN;
-		for(int i = 0;i < n; ++i) {
+		for(int i = 0; i < n; ++i) {
 			cin >> s >> p >> v;
 			maxx = max(maxx, (p / ++s) * v);
 		}

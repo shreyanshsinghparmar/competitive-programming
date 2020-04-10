@@ -20,7 +20,11 @@ Submissions from TechGig Code Gladiators 2020
 
 ## LEARNDSA
 CodeChef DSA Learning Series
-[LEARNDSA](https://www.codechef.com/LEARNDSA)
+[LEARNDSA](https://www.codechef.com/LEARNDSA "LEARNDSA")
+
+## APRIL20B
+CodeChef April Long 2020 Division 2
+[APRIL20B](https://www.codechef.com/APRIL20B "APRIL20B")
 
 ## Code_Jam_2020
 Submissions from Google Code Jam 2020

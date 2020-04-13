@@ -36,7 +36,7 @@ int32_t main() {
 			max_depth = curr_depth;
 			depth_pos = i + 1;
 		}
-		}
+	}
 	cout << max_depth << " " << depth_pos << " " << max_len << " " << len_pos << "\n";
 	if(debug) {
 		for(int i = 0; i < n; ++i)

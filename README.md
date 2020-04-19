@@ -40,3 +40,7 @@ A2OJ Ladders
 ## Kick_Start_2020
 Google Kick Start 2020
 [Kick Start 2020](https://codingcompetitions.withgoogle.com/kickstart/archive/2020 "Kick Start 2020")
+
+## IIITDS20
+IIIT Delhi M.Tech CSE Mock admission test
+[IIITDS20](https://www.codechef.com/IIITDS20 "IIIT Delhi M.Tech CSE Mock admission test")

@@ -28,7 +28,7 @@ CodeChef April Long 2020 Division 2
 
 ## Code_Jam_2020
 Submissions from Google Code Jam 2020
-[Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27 "Code Jam 2020")
+[Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/archive/2020 "Code Jam 2020")
 
 ## IIITH
 IIIT Hyderabad Problem Solving and Data Structures lab
@@ -36,3 +36,7 @@ IIIT Hyderabad Problem Solving and Data Structures lab
 ## A2OJ
 A2OJ Ladders
 [A2OJ Ladders](https://www.a2oj.com/Ladders.html "A2OJ Ladders")
+
+## Kick_Start_2020
+Google Kick Start 2020
+[Kick Start 2020](https://codingcompetitions.withgoogle.com/kickstart/archive/2020 "Kick Start 2020")

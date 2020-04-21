@@ -44,3 +44,7 @@ Google Kick Start 2020
 ## IIITDS20
 IIIT Delhi M.Tech CSE Mock admission test
 [IIITDS20](https://www.codechef.com/IIITDS20 "IIIT Delhi M.Tech CSE Mock admission test")
+
+## COOK117B
+CodeChef April Cook-Off 2020 Div. 2
+[COOK117B](https://www.codechef.com/COOK117B/ "April Cook-Off 2020")

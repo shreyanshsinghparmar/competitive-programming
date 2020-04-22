@@ -30,9 +30,6 @@ CodeChef April Long 2020 Division 2
 Submissions from Google Code Jam 2020
 [Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/archive/2020 "Code Jam 2020")
 
-## IIITH
-IIIT Hyderabad Problem Solving and Data Structures lab
-
 ## A2OJ
 A2OJ Ladders
 [A2OJ Ladders](https://www.a2oj.com/Ladders.html "A2OJ Ladders")
@@ -52,3 +49,7 @@ CodeChef April Cook-Off 2020 Div. 2
 ## ABC_163
 AtCoder Beginner Contest 163
 [ABC 163](https://atcoder.jp/contests/abc163 "ABC 163")
+
+## Project_Euler
+Project Euler
+[Project Euler](https://projecteuler.net/ "Project Euler")

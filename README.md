@@ -49,7 +49,3 @@ CodeChef April Cook-Off 2020 Div. 2
 ## ABC_163
 AtCoder Beginner Contest 163
 [ABC 163](https://atcoder.jp/contests/abc163 "ABC 163")
-
-## Project_Euler
-Project Euler
-[Project Euler](https://projecteuler.net/ "Project Euler")

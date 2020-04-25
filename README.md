@@ -53,3 +53,7 @@ AtCoder Beginner Contest 163
 ## UVa
 UVa Online Judge Problems
 [UVa](https://onlinejudge.org/ "UVa Online Judge")
+
+## LTIME83B
+CodeChef April Lunchtime 2020 Div. 2
+[LTIME83B](https://www.codechef.com/LTIME83B/ "April Lunchtime 2020")

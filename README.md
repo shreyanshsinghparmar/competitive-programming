@@ -57,3 +57,7 @@ UVa Online Judge Problems
 ## LTIME83B
 CodeChef April Lunchtime 2020 Div. 2
 [LTIME83B](https://www.codechef.com/LTIME83B/ "April Lunchtime 2020")
+
+## CODE_HELP_5
+HackerRank CODE HELP 5
+[CODE_HELP_5](https://www.hackerrank.com/contests/code-help-5/challenges "CODE HELP 5")

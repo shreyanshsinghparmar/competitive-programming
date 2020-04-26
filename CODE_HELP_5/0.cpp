@@ -31,7 +31,7 @@ int32_t main() {
 		size -= i.second;
 		++ans;
 		if(size <= n / 2) break;
-		}
+	}
 	cout << ans;
 
 	return 0;

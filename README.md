@@ -50,9 +50,9 @@ CodeChef April Cook-Off 2020 Div. 2
 AtCoder Beginner Contest 163
 [ABC 163](https://atcoder.jp/contests/abc163 "ABC 163")
 
-## UVa
-UVa Online Judge Problems
-[UVa](https://onlinejudge.org/ "UVa Online Judge")
+## random
+Not so random practice. The problems are from various online judges and are sorted according to topic or difficulty level.
+Some of these problems also contain random problems that are trending or ones that some good coder had done at my level at the time.
 
 ## LTIME83B
 CodeChef April Lunchtime 2020 Div. 2

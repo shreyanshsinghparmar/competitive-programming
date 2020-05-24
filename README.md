@@ -65,7 +65,3 @@ HackerRank CODE HELP 5
 ## ABC_164
 AtCoder Beginner Contest 164
 [ABC 164](https://atcoder.jp/contests/abc164 "ABC 164")
-
-## ITMOx
-ITMO University Competitive Programminng Course
-[ITMOx](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2019/course/)

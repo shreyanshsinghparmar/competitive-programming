@@ -65,3 +65,11 @@ HackerRank CODE HELP 5
 ## ABC_164
 AtCoder Beginner Contest 164
 [ABC 164](https://atcoder.jp/contests/abc164 "ABC 164")
+
+## MAY20B
+CodeChef May Challenge Div.2 2020
+[MAY20B](https://www.codechef.com/MAY20B)
+
+## LTIME84B
+CodeChef Lunchtime May 2020 Div. 2
+[LTIME84B](https://www.codechef.com/LTIME84B)

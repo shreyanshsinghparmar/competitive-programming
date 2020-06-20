@@ -73,3 +73,7 @@ CodeChef May Challenge Div.2 2020
 ## LTIME84B
 CodeChef Lunchtime May 2020 Div. 2
 [LTIME84B](https://www.codechef.com/LTIME84B)
+
+## CF_Global_8
+Codeforces Global Round 8
+[CF_Global_8](https://codeforces.com/contest/1368)

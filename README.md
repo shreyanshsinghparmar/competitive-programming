@@ -81,3 +81,6 @@ Codeforces Global Round 8
 ## ABC_171
 AtCoder Beginner Contest 171
 [ABC_171](https://atcoder.jp/contests/abc171)
+
+## mashups
+Codeforces mashups for difficulty rating wise practice, starting from rating 800

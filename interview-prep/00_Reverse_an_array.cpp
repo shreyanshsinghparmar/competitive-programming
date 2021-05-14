@@ -25,6 +25,11 @@ int32_t main() {
 }
 
 /*
+Solution: O(n)
+* Input array and print it in reverse order
+*/
+
+/*
 Reverse an Array 
 School Accuracy: 40.0% Submissions: 100k+ Points: 0
 Given an array A of size N, print the reverse of it.

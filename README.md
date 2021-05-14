@@ -13,6 +13,8 @@ Every submission has a number as suffix that represents the different approcache
 ## CSES
 CSES Problem set meant to teach standard problems from each topic
 [CSES Problem Set](https://cses.fi/problemset/ "CSES Problem Set")
+## interview-prep
+Problems for coding interview preparation with increasing difficulty
 
 ## Code_Gladiators_2020
 Submissions from TechGig Code Gladiators 2020

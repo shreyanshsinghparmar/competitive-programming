@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        set<int> s;
+        unordered_set<int> s;
         for(int i : nums)
             s.insert(i);
         if(s.size() == nums.size()) return false;
@@ -10,7 +10,8 @@ public:
 };
 
 /*
-Time: O(n log n), Space: O(n)
+Time: O(n), Space: O(n)
 * Add each element to set
-* Since set only adds an element once, if duplicates exist, it will be smaller than the array
+* If duplicates exist, size of set will be greater than size of array
+* Unordered set lookup time is O(1), so it's better than using set
 */

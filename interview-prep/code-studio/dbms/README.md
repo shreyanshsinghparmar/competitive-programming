@@ -77,3 +77,53 @@ Functions of DB admin
 	- User privileges establishment
 	- Firewalls
 	- Complex due to distributed systems like internet and client-server model
+
+## DB Architecture
+
+### Two tier architecture
+
+Client-Server architecture
+
+Layers:
+* Client: Runs the application. Handles business logic and presentation
+* Server: Handles database backend. Processes data in the database
+
+On client side, code is written for saving data in the SQL server database
+
+Advantages:
+* Easy to maintain and modify
+* Fast communication
+
+Disadvantages:
+* Performance will degrade with increasing users
+* Cost-ineffective
+
+### Three Tier Architecture
+
+Traditional client-server model, but from an application server that speaks to the client and the database
+
+Client displays the GUI and data, but has no part in producing results
+
+DB server only serves to few connections (application server, not clients)
+
+Layers:
+* Client layer (UI and presentation)
+	- UI and presentation
+	- Data is presented to and taken from the user
+* Business layer (Business logic)
+	- Business logic: data validation, calculations, insertions
+	- Interface between client layer and application layer
+	- Makes communication faster between client and data layer
+* Data layer (Database)
+	- Contains the database
+	- Methods to connect with the database and perform CRUD (Create, Read, Update, Delete) operations as per input data
+
+Advantages:
+
+* Performance: Presentation tier can cache things, so data and application layers don't have to be loaded so much and network utilization is minimized
+* Scalability: Each tier can scale horizontally (additon of nodes to increase performance)
+* Reusablity
+* Flexibility in deployment platform and configuration
+* Better data integrity (Data is manipulated in layers different from the end-user client layer)
+* Better data security (Client layer has no access to database)
+* Maintaining and modification won't affect other modules

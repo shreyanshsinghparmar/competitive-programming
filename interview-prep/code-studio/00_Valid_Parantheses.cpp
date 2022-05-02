@@ -10,10 +10,10 @@ bool isValidParenthesis(string expression)
     if(expression == "") return true;
 	stack<char> s;
 	for(char i : expression) {
-		if(s.empty()) s.push(i);
-		else if(i == '{' || i == '(' || i == '[') s.push(i);
+		if(i == '{' || i == '(' || i == '[') s.push(i);
 		else {
-			if(same(s.top(), i)) s.pop();
+			if(s.empty()) return false;
+			else if(same(s.top(), i)) s.pop();
 			else return false;
 		}
 	}
@@ -26,13 +26,13 @@ bool isValidParenthesis(string expression)
 For every opening bracket of one type, there should be a closing bracket of the same type
 * If after an opening bracket of one type, a bracket of another type closes, the expression can no longer be balanced. Example (][)
 * If the expression is empty, it is already balanced
+* If the stack is empty, that is, the expression is balanced and a bracket is closed, expression can no longer be balanced
 
 So, we can use a stack to push opening brackets and pop if the closing bracket is the same as the top opening bracket in the stack
 * If we encounter a closing bracket and it isn't the same type as the top opening bracket of the stack, there is no longer any hope for the expression to be balanced no matter what follows
 
 Used a helper function to determine if opening and closing brackets are of the same type
 */
-
 
 /*
 Valid Parentheses

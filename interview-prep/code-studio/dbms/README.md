@@ -137,3 +137,70 @@ Advantages:
 * Better data integrity (Data is manipulated in layers different from the end-user client layer)
 * Better data security (Client layer has no access to database)
 * Maintaining and modification won't affect other modules
+
+## ER Models
+
+Entity Relationship Diagram (ERD) is a visual representation of different data using conventions that describe how these data are related to each other
+
+Elements inside rectangles are called entities and elements inside diamonds denote relationship between these entities
+
+For example, programmer, user and software can be entities and relationships can be create and use. Straight lines can be used to connect entities and relationships
+Programmer creates software and user uses the software
+
+### ER Diagram
+
+ER modelling is a data modelling technique used in software engineering to produce a conceptual data model of an information system
+
+Creates a conceptual diagram to represent information in ER model form
+
+Diagrams created using this model are called ER diagrams, Entity Relationship Diagrams (ERDs)
+
+### Entity
+
+Collection of objects
+
+Entity is an object distinguishable from other objects by a set of attributes
+
+It may be an 'object' with a physical existence
+
+Example: In a school database, teachers, students, classes and courses can be entities
+
+All entities have a set of attributes that give the, identity
+
+Types:
+* Strong
+	- Exists independently of amy other entity type
+* Weak
+	- Existence depends on another entity type. Cannot be identified by it's own attributes
+* Recursive
+	- Occurs in unary relationship. Relationships can exist between occurences of same entity type. For example an employee can be a manager, but a manager is also an employee that may be managed by other people
+* Composite
+	- Many to many relationship can be converted into one to many by using bridge entity, also known as composite entity. Bridge entity is composed of the primary keys of each of the entities to be connected. Represented by diamond shape
+* Entity sets
+	- Collection of similar types of entities. May contain entities with attrbutes sharing similar values
+	- Example: a students set may contain all students of a school
+	- Entity sets don't have to be disjoint
+
+### Attributes
+
+Properties of entities are called attributes
+
+Attributes of an entity have their values
+
+For example, student entity may contain attributes name, class and age
+
+There exist a domain or range of values that can be assigned to an attribute, like name cannot be numeric
+
+Types:
+* Simple
+	- Atomic, indivisible values
+* Composite
+	- Comprises of other attributes
+	- For example, name may contain first_name and last_name
+* Derived attribute
+	- Does not exist in physical database
+	- Derived from other attributes present in the database
+	- For example, age can be derived from date_of_birth
+* Multi-valued attribute
+	- May contain more than one value
+	- For example, a person can have more than one email address

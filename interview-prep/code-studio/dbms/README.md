@@ -45,11 +45,21 @@ Tomorrow the instance might contain 150 records
 
 Design of a database is it's schema
 
+It is the structural view of the database
+
+Schema diagram represents database as a diagram
+
+Represents relationship between the tables, but does not contain the data in the tables
+
 Types:
 
 * Physical
 * Logical
 * View
+
+Defined by Data Definition Language (DDL)
+
+State in DBMS that satisfies constraints and schems structure is a valid state
 
 ### Subschema
 

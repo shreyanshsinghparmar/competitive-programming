@@ -37,3 +37,43 @@ The data stored in a database at any given instant of time is an instance of the
 Schema defines the variable declaration in tables that belong to a database
 
 Value of these variables at any instant constitute the instance of said database
+
+Example: There is a database with a table students in it, containing 100 records today, so the instance today contains 100 records
+Tomorrow the instance might contain 150 records
+
+### Schema
+
+Design of a database is it's schema
+
+Types:
+
+* Physical
+* Logical
+* View
+
+### Subschema
+
+Subset or proper subset of the schema
+
+Plan for a view is often called subschema
+
+Through subschema, user can view database partially, parts which are of interest at the moment
+
+### Data administrator
+
+Data admin is responsible for the overall management of data resources of an organization
+
+DA must know system analysis and programming
+
+Functions of DB admin
+
+* Hardware and software selection
+	- Keep up with trends
+	- Predict future changes
+	- Emphasis on established off the shelf products
+
+* Managing data security and privacy
+	- Protection against loss, destruction, misuse
+	- User privileges establishment
+	- Firewalls
+	- Complex due to distributed systems like internet and client-server model

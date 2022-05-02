@@ -204,3 +204,11 @@ Types:
 * Multi-valued attribute
 	- May contain more than one value
 	- For example, a person can have more than one email address
+
+Weak entity can be processed into a strong entity by adding appropriate attributes
+
+ER modelling technique is a top-down approach
+
+Descriptive attribute has type and condition of relation specified in a relation between entities
+
+Not applicable condition can be represented in relation entry as NULL

@@ -212,3 +212,78 @@ ER modelling technique is a top-down approach
 Descriptive attribute has type and condition of relation specified in a relation between entities
 
 Not applicable condition can be represented in relation entry as NULL
+
+## Relationships
+
+Entity sets A and B
+
+### One to one
+
+Each entity of set A can be associated with at most one entity of set B and vice versa
+
+### One to many
+
+Each entity of set A can be associated with more than one entity of set B
+
+### Many to one
+
+More than one enitities of set A can be associated with at most one entity of set B
+
+### Many to many
+
+One entity from A can be associated with more than one entity from set B and vice bersa
+
+### Participation
+
+* Partial
+	- Not all entities get involved in the relationship
+	- Indicated by single lines drawn from entity to relationship
+* Total
+	- Each entity in the entity set occurs in at least one relationship in that relationship set
+	- Indicated by double lines from entity to relationship
+
+### Creating an ER diagram
+
+* Entity
+	- Object or concept about which to store information
+	- Rectangular box
+	- Weak entity defined by foreign key relationship with another entity (double rectangular boxes)
+* Relatiionships
+	- Show how two entities share information
+	Diamond shape
+* Attributes
+	- Information about entities
+	- Oval shape
+	- Key attribute is the distinguishing unique characteristic of the entity
+* Multivalued attribute
+	- May have more than one value
+	- Double ovals
+
+Many: *
+One: 1
+Example: many-to-one = entity *----1 entity
+
+### Generalization
+
+A number of entities brought together into one generalized entities
+The entities participating in generalization share some characteristics
+
+Example: tigers, lions and leopards are all cats
+
+### Specialization
+
+Group of entities are divided into subgroups based on their characteristics
+
+Opposite of generalization
+
+Example: A person may be an employee or a customer
+
+### Aggregation
+
+Multiple entities are combined to form a single meaningful entity
+
+Building composite objects from their component objects
+
+Represents relationship between a whole object and it's component parts
+
+Used to express relationship among relationships

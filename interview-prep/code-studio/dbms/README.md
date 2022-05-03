@@ -287,3 +287,10 @@ Building composite objects from their component objects
 Represents relationship between a whole object and it's component parts
 
 Used to express relationship among relationships
+
+Max cardinality indicates max number of possible entities involved in a relationship
+
+In a one-to-many relationship, entity on the one side of the relationship is the parent entity
+
+Abstraction is the process of hiding the details of the entities from the user in ER model
+

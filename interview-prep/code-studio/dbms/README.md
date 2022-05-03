@@ -294,3 +294,7 @@ In a one-to-many relationship, entity on the one side of the relationship is the
 
 Abstraction is the process of hiding the details of the entities from the user in ER model
 
+## RDBMS
+
+Relational Database Management System
+
